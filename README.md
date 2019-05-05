@@ -1,5 +1,6 @@
 # Communicate-Data-Findings-DAND-Udacity
 Explore the ford go bike datasets communicate the data findings.
+Author:- Sarthak Das Roy
 
 ![bike-share-for-all-image](https://user-images.githubusercontent.com/48868854/57011471-6a04db80-6c1f-11e9-9ba5-70ed3b47f1be.jpg)
 
